@@ -1,0 +1,17 @@
+C:\Users\shaki\source\repos\hospitall\hospitall\bin\Debug\net8.0\hospitall.exe
+C:\Users\shaki\source\repos\hospitall\hospitall\bin\Debug\net8.0\hospitall.deps.json
+C:\Users\shaki\source\repos\hospitall\hospitall\bin\Debug\net8.0\hospitall.runtimeconfig.json
+C:\Users\shaki\source\repos\hospitall\hospitall\bin\Debug\net8.0\hospitall.dll
+C:\Users\shaki\source\repos\hospitall\hospitall\bin\Debug\net8.0\hospitall.pdb
+C:\Users\shaki\source\repos\hospitall\hospitall\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.csproj.AssemblyReference.cache
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.AssemblyInfoInputs.cache
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.AssemblyInfo.cs
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.csproj.CoreCompileInputs.cache
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.csproj.Up2Date
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.dll
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\refint\hospitall.dll
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.pdb
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\hospitall.genruntimeconfig.cache
+C:\Users\shaki\source\repos\hospitall\hospitall\obj\Debug\net8.0\ref\hospitall.dll

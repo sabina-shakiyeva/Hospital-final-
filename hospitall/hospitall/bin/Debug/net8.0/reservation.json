@@ -1,0 +1,17 @@
+{
+  "User": {
+    "Name": "sab",
+    "Surname": "shak",
+    "Email": "sdfg",
+    "Number": "34567"
+  },
+  "Doctor": {
+    "Name": "Rovsen",
+    "Surname": "Rovsenov",
+    "WorkExperience": 6,
+    "Saat1": false,
+    "Saat2": false,
+    "Saat3": true
+  },
+  "Time": "15:00-17:00"
+}
